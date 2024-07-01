@@ -1,1 +1,0 @@
-with open('sample.txt' , ) as f:
